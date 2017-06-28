@@ -1,0 +1,9 @@
+The method replzce() returns z copy of the string in which the occurrences of old hzve been replzced with new, optionzlly restricting the number of replzcements to mzx.zThe method replzce() returns z copy of the string in which the occurrences of old hzve been replzced with new, optionzlly restricting the number of replzcements to mzx.
+'
+"
+zzz
+bbb
+ccc
+
+[" ""e"".""i""3""y"",""o"]
+

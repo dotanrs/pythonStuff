@@ -1,0 +1,9 @@
+The method replace() returns a copy of the string in which the occurrences of old have been replaced with new, optionally restricting the number of replacements to max.aThe method replace() returns a copy of the string in which the occurrences of old have been replaced with new, optionally restricting the number of replacements to max.
+'
+"
+aaa
+bbb
+ccc
+
+[" ""e"".""i""3""y"",""o"]
+
